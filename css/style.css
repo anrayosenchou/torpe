@@ -69,16 +69,16 @@ body{
     animation-delay: 1s;
 }
 .greetings > span:nth-child(7){
-    animation-delay: 1s;
+    animation-delay: 1.2s;
 }
 .greetings > span:nth-child(8){
-    animation-delay: 1s;
+    animation-delay: 1.4s;
 }
 .greetings > span:nth-child(9){
-    animation-delay: 1s;
+    animation-delay: 1.6s;
 }
 .greetings > span:nth-child(10){
-    animation-delay: 1s;
+    animation-delay: 1.8s;
 }
 .description{
     font-size: 1.5rem;
