@@ -5,11 +5,11 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
   { text: "Eres todo lo que pedía", time: 0 },
-  { text: "Lo que mi alma vacía", time: 3 },
-  { text: "Quería sentir", time: 7 },
-  { text: "Eres lo que tanto esperaba", time: 13 },
-  { text: "Lo que en sueños buscaba", time: 16 },
-  { text: "Y que en ti descubrí", time: 19 },
+  { text: "Lo que mi alma vacía", time: 2 },
+  { text: "Quería sentir", time: 6 },
+  { text: "Eres lo que tanto esperaba", time: 12 },
+  { text: "Lo que en sueños buscaba", time: 15 },
+  { text: "Y que en ti descubrí", time: 18 },
   { text: "Tu has llegado a encender", time: 26 },
   { text: "Cada parte de mi alma", time: 29 },
   { text: "Cada espacio de mi ser", time: 33 },
