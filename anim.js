@@ -6,9 +6,9 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "Eres todo lo que pedía", time: 0 },
   { text: "Lo que mi alma vacía", time: 2 },
-  { text: "Quería sentir", time: 6 },
-  { text: "Eres lo que tanto esperaba", time: 12 },
-  { text: "Lo que en sueños buscaba", time: 15 },
+  { text: "Quería sentir", time: 7 },
+  { text: "Eres lo que tanto esperaba", time: 13 },
+  { text: "Lo que en sueños buscaba", time: 16 },
   { text: "Y que en ti descubrí", time: 18 },
   { text: "Tu has llegado a encender", time: 26 },
   { text: "Cada parte de mi alma", time: 29 },
